@@ -1,0 +1,1 @@
+ include ':app', ':shvideolibrary', ':videorecorder', ':downloaddemo', ':loaddemo', ':uploadingdemo', ':scdemo', ':sctest', ':xz', ':bannertest'

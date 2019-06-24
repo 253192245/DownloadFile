@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/bannertest" />
+            <option value="$PROJECT_DIR$/downloaddemo" />
+            <option value="$PROJECT_DIR$/loaddemo" />
+            <option value="$PROJECT_DIR$/scdemo" />
+            <option value="$PROJECT_DIR$/sctest" />
+            <option value="$PROJECT_DIR$/shvideolibrary" />
+            <option value="$PROJECT_DIR$/uploadingdemo" />
+            <option value="$PROJECT_DIR$/videorecorder" />
+            <option value="$PROJECT_DIR$/xz" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
